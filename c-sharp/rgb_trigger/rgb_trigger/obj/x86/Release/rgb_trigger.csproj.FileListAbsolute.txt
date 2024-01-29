@@ -1,0 +1,3 @@
+C:\SUB\C#\rgb_trigger\rgb_trigger\obj\x86\Release\rgb_trigger.Form1.resources
+C:\SUB\C#\rgb_trigger\rgb_trigger\obj\x86\Release\rgb_trigger.Properties.Resources.resources
+C:\SUB\C#\rgb_trigger\rgb_trigger\obj\x86\Release\rgb_trigger.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\SUB\c#\series\series\bin\Debug\series.exe
+C:\SUB\c#\series\series\bin\Debug\series.pdb
+C:\SUB\c#\series\series\obj\x86\Debug\series.exe
+C:\SUB\c#\series\series\obj\x86\Debug\series.pdb
+C:\SUB\c#\series-1\series\obj\x86\Debug\series.exe

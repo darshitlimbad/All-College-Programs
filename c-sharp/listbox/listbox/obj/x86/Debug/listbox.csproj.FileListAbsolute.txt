@@ -1,0 +1,7 @@
+C:\SUB\C#\listbox\listbox\bin\Debug\listbox.exe
+C:\SUB\C#\listbox\listbox\bin\Debug\listbox.pdb
+C:\SUB\C#\listbox\listbox\obj\x86\Debug\listbox.Form1.resources
+C:\SUB\C#\listbox\listbox\obj\x86\Debug\listbox.Properties.Resources.resources
+C:\SUB\C#\listbox\listbox\obj\x86\Debug\listbox.csproj.GenerateResource.Cache
+C:\SUB\C#\listbox\listbox\obj\x86\Debug\listbox.exe
+C:\SUB\C#\listbox\listbox\obj\x86\Debug\listbox.pdb

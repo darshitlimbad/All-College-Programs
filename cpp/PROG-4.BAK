@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main() {
+	int *n=new int;
+	clrscr();
+	//n=new int;
+	//n=new int(100);
+	cin >> n ;
+
+	cout << n << "   " << *n ;
+
+	delete n;
+}

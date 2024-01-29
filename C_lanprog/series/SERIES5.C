@@ -1,0 +1,21 @@
+//series no.5 -1,2,6,24
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+	int i,n;
+	unsigned long int ans=1,r=2;
+	clrscr();
+	printf("enter your desired val for n(limit):\n");
+	scanf("%d",&n);
+	for(i=1;i<=35;i++)
+		printf("-");
+
+	for(i=1 ; i<=n ; i++)
+	{
+		printf("\n %lu ",ans);
+		ans*=r++;
+	}
+	getch();
+}

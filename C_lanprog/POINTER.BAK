@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include<conio.h>
+
+int main()
+{
+  int a=10 , *p=a;
+  clrscr();
+  
+  printf("value of a : %d",a);
+  printf("value of a by pointer : %d",*p);
+  printf("addres of a by pointer : %d",p);
+  printf("addres of a by & : %d",&a);
+  
+  return 0;
+}

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.C": "c",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "deque": "cpp"
+    }
+}

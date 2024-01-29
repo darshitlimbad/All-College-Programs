@@ -1,0 +1,7 @@
+C:\SUB\C#\combobox\combobox\bin\Debug\combobox.exe
+C:\SUB\C#\combobox\combobox\bin\Debug\combobox.pdb
+C:\SUB\C#\combobox\combobox\obj\x86\Debug\combobox.Form1.resources
+C:\SUB\C#\combobox\combobox\obj\x86\Debug\combobox.Properties.Resources.resources
+C:\SUB\C#\combobox\combobox\obj\x86\Debug\combobox.csproj.GenerateResource.Cache
+C:\SUB\C#\combobox\combobox\obj\x86\Debug\combobox.exe
+C:\SUB\C#\combobox\combobox\obj\x86\Debug\combobox.pdb

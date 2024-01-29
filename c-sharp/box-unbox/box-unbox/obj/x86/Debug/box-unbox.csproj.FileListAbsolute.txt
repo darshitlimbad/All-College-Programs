@@ -1,0 +1,4 @@
+C:\SUB\C#\box-unbox\box-unbox\bin\Debug\box-unbox.exe
+C:\SUB\C#\box-unbox\box-unbox\bin\Debug\box-unbox.pdb
+C:\SUB\C#\box-unbox\box-unbox\obj\x86\Debug\box-unbox.exe
+C:\SUB\C#\box-unbox\box-unbox\obj\x86\Debug\box-unbox.pdb

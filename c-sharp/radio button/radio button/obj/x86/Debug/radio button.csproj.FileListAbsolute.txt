@@ -1,0 +1,8 @@
+C:\SUB\C#\radio button\radio button\bin\Debug\radio button.exe
+C:\SUB\C#\radio button\radio button\bin\Debug\radio button.pdb
+C:\SUB\C#\radio button\radio button\obj\x86\Debug\radio_button.Form1.resources
+C:\SUB\C#\radio button\radio button\obj\x86\Debug\radio_button.Properties.Resources.resources
+C:\SUB\C#\radio button\radio button\obj\x86\Debug\radio button.csproj.GenerateResource.Cache
+C:\SUB\C#\radio button\radio button\obj\x86\Debug\radio button.exe
+C:\SUB\C#\radio button\radio button\obj\x86\Debug\radio button.pdb
+C:\SUB\C#\radio button\radio button\obj\x86\Debug\radio button.csprojResolveAssemblyReference.cache

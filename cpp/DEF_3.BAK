@@ -1,0 +1,40 @@
+/*
+10
+4	9
+3	5	8
+1	2	6	7
+*/
+#include<iostream.h>
+#include<conio.h>
+
+rec(int n);
+
+void main() {
+	int p , n ;
+	
+	cin << n;
+	
+	p=rec(n);
+	
+	for(int i = 1 ; i <= n ; i++)
+	{
+		for(int j=5 ; j>=i ; j++) {
+			cout << "\t";
+		}
+		
+		for(j=1 ; j<=i ; j++) {
+			cout << p << "\t";
+			n--;
+			p=n;
+		}
+		cout << endl;
+	}
+}
+
+int rec(int n) {
+    if (n > 0) {
+        return n + rec(n - 1);
+    } else {
+        return 0;
+    }
+}

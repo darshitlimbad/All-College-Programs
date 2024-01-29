@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+	char alpha;
+
+	printf("enter a number :");
+	scanf("%c",alpha);
+
+	if(isalpha(alpha))
+		printf("%c is alphabet",alpha);
+
+	else
+		printf("%c is not alphabet",alpha);
+
+	getch();
+}

@@ -1,0 +1,50 @@
+//binary input of class value to file
+#include<iostream.h>
+#include<conio.h>
+#include<fstream.h>
+
+class A{
+	public:
+	char nm[20];
+	void get() {
+		cout<< "enter name:" ;
+		cin>> nm;
+	}
+
+	void put() {
+		cout<< nm << endl;
+	}
+};
+
+void main() {
+clrscr();
+
+	A a1;
+	char c;
+
+	fstream f1;
+	f1.open("c:\\users\\darsh\\prog\\cpp\\file_bin2.txt" , ios::in | ios::out | ios::binary | ios::trunc);
+	while(1) {
+		a1.get();
+		f1.write((char*)&a1,sizeof(a1));
+
+
+		cout<<endl<<"continue?";
+		cin.get(c);
+		c=cin.get();
+
+		if(c != 'y')
+			break;
+	}
+		if(f1.good())
+			cout<<"all okay" << endl;
+
+	f1.seekg(0);
+	while(f1.read((char*)&a1,sizeof(a1))) {
+		a1.put();
+	}
+
+	f1.close();
+
+	getch();
+}

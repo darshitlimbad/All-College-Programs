@@ -1,0 +1,57 @@
+//overload binari + and == operator
+#include<iostream.h>
+#include<conio.h>
+
+class A
+{
+	int a;
+
+	public:
+	A(){}
+	A(int a1)
+	{
+		a=a1;
+	}
+
+	void put(){
+		cout << "\na= " << a ;
+	}
+
+	A operator +(A a2);
+	int operator ==(A a2);
+};
+
+A A::operator +(A a2)
+{
+		A a3;
+		a3.a=a+a2.a;
+		return a3;
+}
+
+int A::operator ==(A a2) {
+	if(a == a2.a) {
+		return 1;
+	}
+	else {
+		return 0;
+	}
+}
+
+void main() {
+	clrscr();
+	A a1(32),a2(32),a3;
+
+
+	a1.put();
+	a2.put();
+	a3=a1+a2;
+	a3.put();
+
+	if(a1 == a2) {
+		cout<< "\nequal" ;
+	}
+	else{
+		cout << "\nNot Equal";
+	}
+}
+

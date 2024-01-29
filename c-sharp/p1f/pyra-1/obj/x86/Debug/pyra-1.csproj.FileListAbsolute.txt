@@ -1,0 +1,12 @@
+C:\SUB\c#\pyra-1\pyra-1\bin\Debug\pyra-1.exe
+C:\SUB\c#\pyra-1\pyra-1\bin\Debug\pyra-1.pdb
+C:\SUB\c#\pyra-1\pyra-1\obj\x86\Debug\pyra-1.exe
+C:\SUB\c#\pyra-1\pyra-1\obj\x86\Debug\pyra-1.pdb
+C:\SUB\c#\pyra-1\pyra-1\obj\x86\Debug\pyra-1.csprojResolveAssemblyReference.cache
+C:\Users\Darsh\Prog\C#\p1f\pyra-1\bin\Debug\pyra-1.exe.config
+C:\Users\Darsh\Prog\C#\p1f\pyra-1\bin\Debug\pyra-1.exe
+C:\Users\Darsh\Prog\C#\p1f\pyra-1\bin\Debug\pyra-1.pdb
+C:\Users\Darsh\Prog\C#\p1f\pyra-1\obj\x86\Debug\pyra-1.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\C#\p1f\pyra-1\obj\x86\Debug\pyra-1.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\C#\p1f\pyra-1\obj\x86\Debug\pyra-1.exe
+C:\Users\Darsh\Prog\C#\p1f\pyra-1\obj\x86\Debug\pyra-1.pdb

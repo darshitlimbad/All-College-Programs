@@ -1,0 +1,17 @@
+C:\Users\Darsh\Prog\C#\log in form\bin\Debug\net8.0-windows\log in form.exe
+C:\Users\Darsh\Prog\C#\log in form\bin\Debug\net8.0-windows\log in form.deps.json
+C:\Users\Darsh\Prog\C#\log in form\bin\Debug\net8.0-windows\log in form.runtimeconfig.json
+C:\Users\Darsh\Prog\C#\log in form\bin\Debug\net8.0-windows\log in form.dll
+C:\Users\Darsh\Prog\C#\log in form\bin\Debug\net8.0-windows\log in form.pdb
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log_in_form.Form1.resources
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.csproj.GenerateResource.cache
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.AssemblyInfoInputs.cache
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.AssemblyInfo.cs
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.sourcelink.json
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.dll
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\refint\log in form.dll
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.pdb
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\log in form.genruntimeconfig.cache
+C:\Users\Darsh\Prog\C#\log in form\obj\Debug\net8.0-windows\ref\log in form.dll

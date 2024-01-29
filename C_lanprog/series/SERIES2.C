@@ -1,0 +1,18 @@
+//series no.2 -1,2,5,10
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+	int i,n,a=1;
+	clrscr();
+	printf("enter your desired val for n(limit):\n");
+	scanf("%d",&n);
+
+	for(i=1 ; i<=n ; i++)
+	{
+		printf("\t %d \t",a);
+		a=(i*i+1);
+	}
+	getch();
+}

@@ -1,0 +1,26 @@
+//file handling with use of mod
+#include<iostream.h>
+#include<conio.h>
+#include<fstream.h>
+
+void main() {
+	clrscr();
+	char c;
+
+	fstream f1;
+	f1.open("c:/users/darsh/prog/cpp/customer.txt", ios::in | ios::out);
+	cout << "Enter Data:(ctrl+z) to end:" << endl;
+	while((c=cin.get()) != EOF )
+	{
+		f1<<c; // f1.put(c);
+
+	}
+	f1.seekg(0);
+	while((c=f1.get()) != EOF) {
+
+	      cout<<c;
+	}
+
+
+	f1.close();
+}

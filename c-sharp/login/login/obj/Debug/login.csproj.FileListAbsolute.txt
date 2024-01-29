@@ -1,0 +1,7 @@
+C:\Users\Darsh\Prog\C#\login\login\bin\Debug\login.exe.config
+C:\Users\Darsh\Prog\C#\login\login\bin\Debug\login.exe
+C:\Users\Darsh\Prog\C#\login\login\bin\Debug\login.pdb
+C:\Users\Darsh\Prog\C#\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\C#\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\C#\login\login\obj\Debug\login.exe
+C:\Users\Darsh\Prog\C#\login\login\obj\Debug\login.pdb

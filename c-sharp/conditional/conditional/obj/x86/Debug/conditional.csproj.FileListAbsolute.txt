@@ -1,0 +1,4 @@
+C:\SUB\c#\conditional\conditional\bin\Debug\conditional.exe
+C:\SUB\c#\conditional\conditional\bin\Debug\conditional.pdb
+C:\SUB\c#\conditional\conditional\obj\x86\Debug\conditional.exe
+C:\SUB\c#\conditional\conditional\obj\x86\Debug\conditional.pdb

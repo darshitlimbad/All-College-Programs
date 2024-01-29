@@ -1,0 +1,31 @@
+//Palindrome
+
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+	int num , temp , rem , rev=0 ;
+	clrscr();
+
+	printf("enter your desired val for num(limit):\n");
+	scanf("%d",&num);
+
+	temp=num;
+
+	while(temp!=0)
+	{
+		rem=temp % 10 ;
+		rev = rev*10 + rem;
+		temp / 10 ;
+		printf(",");
+	}
+
+	if(num==temp)
+		printf("num %d is palindrome.",num);
+
+	else
+		printf("num %d is not palindrome.",num);
+
+	getch();
+}

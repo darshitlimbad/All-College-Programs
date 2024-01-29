@@ -1,0 +1,5 @@
+C:\SUB\c#\arraymulti\arraymulti\bin\Debug\arraymulti.exe
+C:\SUB\c#\arraymulti\arraymulti\bin\Debug\arraymulti.pdb
+C:\SUB\c#\arraymulti\arraymulti\obj\x86\Debug\arraymulti.exe
+C:\SUB\c#\arraymulti\arraymulti\obj\x86\Debug\arraymulti.pdb
+C:\SUB\c#\arraymulti\arraymulti\obj\x86\Debug\arraymulti.csprojResolveAssemblyReference.cache

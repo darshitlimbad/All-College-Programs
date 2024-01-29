@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void main()
+{
+	char c;
+	clrscr();
+	printf("Enter a character: ");
+	scanf("%c", &c);
+
+	if (isalpha(c))
+		printf("%c is an alphabet.", c);
+	else
+		printf("%c is not an alphabet.", c);
+
+}

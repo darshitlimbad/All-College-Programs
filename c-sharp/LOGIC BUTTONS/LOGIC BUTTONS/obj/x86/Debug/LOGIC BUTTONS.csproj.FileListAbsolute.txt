@@ -1,0 +1,16 @@
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\bin\Debug\LOGIC BUTTONS.exe
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\bin\Debug\LOGIC BUTTONS.pdb
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC_BUTTONS.Form1.resources
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC_BUTTONS.Properties.Resources.resources
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.csproj.GenerateResource.Cache
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.exe
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.pdb
+C:\Smooth_Operator\Sem 4\2. Programming with c#\Projects\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.csprojResolveAssemblyReference.cache
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.exe
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.pdb
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\bin\Debug\LOGIC BUTTONS.exe
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\bin\Debug\LOGIC BUTTONS.pdb
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.csprojResolveAssemblyReference.cache
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC_BUTTONS.Form1.resources
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC_BUTTONS.Properties.Resources.resources
+C:\SUB\C#\LOGIC BUTTONS\LOGIC BUTTONS\obj\x86\Debug\LOGIC BUTTONS.csproj.GenerateResource.Cache

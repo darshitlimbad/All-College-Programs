@@ -1,0 +1,23 @@
+#include<iostream.h>
+#include<conio.h>
+
+class C {
+	int a;
+	public:
+		C(int x) {
+		       a = x;
+		       cout << "para";
+		}
+		C(C &c1) {
+			a = c1.a;
+			cout << "copy";
+		}
+};
+
+void main()
+{
+	clrscr();
+	C c1(45) , c2(c1);
+
+
+}

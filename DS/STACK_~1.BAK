@@ -1,0 +1,80 @@
+//Stacke
+#include<stdio.h>
+#include<conio.h>
+int arry[5];
+int top = -1;
+
+void push(int sum)
+{
+    if(top >= 4)
+	printf("Stack is full");
+    else
+    {
+	top++;
+    arry[top] = sum;
+    }
+    //printf("Stack position:%d,value:%d is inserted",tos+1,ele);
+}
+int pop()
+{
+    if(top <= -1)
+	printf("Stack is Empty");
+    else
+    {
+	//printf("Stack Position:%d,value:%d is Deleted\n",tos+1,stack[tos]);
+	top--;
+    }
+    return arry[top+1];
+}
+void printstack()
+{
+    int i;
+    if(top < 0)
+	printf(" Stack is Empty");
+    else
+    {
+	for(i=0; i<=top; i++)
+	{
+	    printf("\nPosituon:%d ,Value is:%d",i,arry[i]);
+	}
+    }
+
+}
+
+void insertAtbottom(int item)
+{
+    if(top < 0)
+    {
+	push(item);
+    }
+    else
+    {
+	int top = pop();
+	insertAtbottom(item);
+	push(top) ;
+    }
+}
+void reverse()
+{
+    if(top!=-1)
+    {
+	int top = pop();
+	reverse();
+	insertAtbottom(top);
+    }
+}
+int main()
+{
+	clrscr();
+    push(10);
+    push(20);
+    push(30);
+    push(40);
+    push(50);
+    printf("\nOriginal Stack");
+    printstack();
+    reverse();
+    printf("\nReverse Stack");
+    printstack();
+    return 0;
+    }

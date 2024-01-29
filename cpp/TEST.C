@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<conio.h>
+
+int a=10;
+void test();
+void main() {
+	int a=100;
+	{
+		int a=1;
+		clrscr();
+		printf( "%d \n" , a);
+	}
+	printf("%d\n" , a);
+	
+	test();
+}
+
+void test()
+{
+	printf("%d" , a);
+}

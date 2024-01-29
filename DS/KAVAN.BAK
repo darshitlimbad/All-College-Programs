@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main() {
+	char list[20] = {"aaddvcbbqwsf"};
+	int i , j , repeat=0 , repeating=0 ;
+
+	for(i=0 , i<=list[] , i++)
+	{
+		printf(i);
+	}
+
+
+}

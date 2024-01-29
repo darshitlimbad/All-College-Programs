@@ -1,0 +1,8 @@
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\bin\Debug\checkbox_val_get.exe
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\bin\Debug\checkbox_val_get.pdb
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\obj\x86\Debug\checkbox_val_get.Form1.resources
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\obj\x86\Debug\checkbox_val_get.Properties.Resources.resources
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\obj\x86\Debug\checkbox_val_get.csproj.GenerateResource.Cache
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\obj\x86\Debug\checkbox_val_get.exe
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\obj\x86\Debug\checkbox_val_get.pdb
+C:\SUB\C#\checkbox_val_get\checkbox_val_get\obj\x86\Debug\checkbox_val_get.csprojResolveAssemblyReference.cache

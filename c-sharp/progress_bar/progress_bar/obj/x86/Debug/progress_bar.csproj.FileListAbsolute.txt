@@ -1,0 +1,9 @@
+C:\SUB\C#\progress_bar\progress_bar\bin\Debug\progress_bar.exe
+C:\SUB\C#\progress_bar\progress_bar\bin\Debug\progress_bar.pdb
+C:\SUB\C#\progress_bar\progress_bar\obj\x86\Debug\progress_bar.Form1.resources
+C:\SUB\C#\progress_bar\progress_bar\obj\x86\Debug\progress_bar.Properties.Resources.resources
+C:\SUB\C#\progress_bar\progress_bar\obj\x86\Debug\progress_bar.csproj.GenerateResource.Cache
+C:\SUB\C#\progress_bar\progress_bar\obj\x86\Debug\progress_bar.exe
+C:\SUB\C#\progress_bar\progress_bar\obj\x86\Debug\progress_bar.pdb
+C:\SUB\C#\progress_bar\progress_bar\obj\x86\Debug\progress_bar.csprojResolveAssemblyReference.cache
+C:\SUB\C#\progress_bar\progress_bar\obj\x86\Debug\progress_bar.Form2.resources

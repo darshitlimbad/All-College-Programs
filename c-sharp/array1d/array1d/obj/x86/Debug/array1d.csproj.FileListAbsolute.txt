@@ -1,0 +1,4 @@
+C:\SUB\c#\array1d\array1d\bin\Debug\array1d.exe
+C:\SUB\c#\array1d\array1d\bin\Debug\array1d.pdb
+C:\SUB\c#\array1d\array1d\obj\x86\Debug\array1d.exe
+C:\SUB\c#\array1d\array1d\obj\x86\Debug\array1d.pdb

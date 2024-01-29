@@ -1,0 +1,7 @@
+C:\SUB\C#\scroll_bar\scroll_bar\bin\Debug\scroll_bar.exe
+C:\SUB\C#\scroll_bar\scroll_bar\bin\Debug\scroll_bar.pdb
+C:\SUB\C#\scroll_bar\scroll_bar\obj\x86\Debug\scroll_bar.Form1.resources
+C:\SUB\C#\scroll_bar\scroll_bar\obj\x86\Debug\scroll_bar.Properties.Resources.resources
+C:\SUB\C#\scroll_bar\scroll_bar\obj\x86\Debug\scroll_bar.csproj.GenerateResource.Cache
+C:\SUB\C#\scroll_bar\scroll_bar\obj\x86\Debug\scroll_bar.exe
+C:\SUB\C#\scroll_bar\scroll_bar\obj\x86\Debug\scroll_bar.pdb

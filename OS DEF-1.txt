@@ -1,0 +1,6 @@
+create a following sructure in linux with provided permission to file all to folder 
+bca sem4(read write)4
+java 2 (CHANG CREATED TIME :1 FEB 2017) -introduction.txt7
+csharp 2 (25 FEB 2025)- console.txt7
+os 7 (29 MARCH 2002)- text.txt7
+

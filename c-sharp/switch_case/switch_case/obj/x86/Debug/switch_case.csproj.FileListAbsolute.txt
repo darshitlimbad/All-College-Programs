@@ -1,0 +1,8 @@
+C:\SUB\c#\switch_case\switch_case\bin\Debug\switch_case.exe
+C:\SUB\c#\switch_case\switch_case\bin\Debug\switch_case.pdb
+C:\SUB\c#\switch_case\switch_case\obj\x86\Debug\switch_case.exe
+C:\SUB\c#\switch_case\switch_case\obj\x86\Debug\switch_case.pdb
+C:\prog\c-sharp\switch_case\switch_case\obj\x86\Debug\switch_case.exe
+C:\prog\c-sharp\switch_case\switch_case\bin\Debug\switch_case.exe
+C:\prog\c-sharp\switch_case\switch_case\bin\Debug\switch_case.pdb
+C:\prog\c-sharp\switch_case\switch_case\obj\x86\Debug\switch_case.pdb

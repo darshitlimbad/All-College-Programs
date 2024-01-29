@@ -1,0 +1,26 @@
+//series 7 -> 0 2 8 20
+void main()
+{
+	int previous_num=0 , next_num ,distance ,a=1,i,n ;
+	clrscr();
+
+	printf("enter your desired val for n(limit):\n");
+	scanf("%d",&n);
+
+	for(i=0 ; i<=n ; i++)
+	{
+			if(i==0)
+				printf("\t0\t");
+
+			else
+			{
+				distance = a * a + a++ ;
+				next_num = distance + previous_num ;
+				previous_num = next_num ;
+
+				printf("\t%d\t",next_num);
+			}
+
+	}
+	getch();
+}

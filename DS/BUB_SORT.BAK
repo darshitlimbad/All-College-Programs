@@ -1,0 +1,57 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main () {
+	int a[100] , n , i , j , temp , change = 0 , count = 0;
+
+	do {
+		printf("\nenter LIMITE : ");
+		scanf("%d",&n);
+	}while(n>100 || n<1);
+
+	for(i=0 ; i<n ; i++)
+	{
+		printf("\nENTER ELE FOR LIST a[%d]: ",i);
+		scanf("%d",&a[i]);
+	}
+
+	printf("\nYOUR UNSORTED LIST :\n ");
+	for(i=0 ; i<n ; i++)
+	{
+		printf("\t %d",a[i]);
+	}
+	printf("\n\n\n");
+
+	for(i=0 ; i<n-1 ; i++)
+	{
+		change=0;
+		for(j=i+1 ; j<n ; j++)
+		{
+			if(a[i] > a[j])
+			{
+				temp=a[i];
+				a[i]=a[j];
+				a[j]=temp;
+				change++;
+			}
+		}
+
+		if(change == 0)
+		{
+			break;
+		}
+
+		count++;
+		printf("\nAFTER %d PASS : \n",count);
+		for(j=0 ; j<n ; j++)
+		{
+			printf("\t %d",a[j]);
+		}
+	}
+
+	printf("\n\n\nAFTER SORTING WHOLE LIST :\n");
+	for(j=0 ; j<n ; j++)
+	{
+		printf("\t %d",a[j]);
+	}
+}

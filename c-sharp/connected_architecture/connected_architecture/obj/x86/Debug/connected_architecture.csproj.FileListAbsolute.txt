@@ -1,0 +1,8 @@
+C:\SUB\C-sharp\connected_architecture\connected_architecture\obj\x86\Debug\connected_architecture.Form1.resources
+C:\SUB\C-sharp\connected_architecture\connected_architecture\obj\x86\Debug\connected_architecture.Properties.Resources.resources
+C:\SUB\C-sharp\connected_architecture\connected_architecture\obj\x86\Debug\connected_architecture.csproj.GenerateResource.Cache
+C:\SUB\C-sharp\connected_architecture\connected_architecture\bin\Debug\connected_architecture.exe
+C:\SUB\C-sharp\connected_architecture\connected_architecture\bin\Debug\connected_architecture.pdb
+C:\SUB\C-sharp\connected_architecture\connected_architecture\obj\x86\Debug\connected_architecture.exe
+C:\SUB\C-sharp\connected_architecture\connected_architecture\obj\x86\Debug\connected_architecture.pdb
+C:\SUB\c-sharp\connected_architecture\connected_architecture\obj\x86\Debug\connected_architecture.csprojResolveAssemblyReference.cache

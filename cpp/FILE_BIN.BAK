@@ -1,0 +1,31 @@
+#include<iostream.h>
+#include<conio.h>
+#include<fstream.h>
+
+void main() {
+	float arr[5];
+
+	cout<<"Enter number one by one:" << endl;
+	for(int i=0 ; i<5 ; i++) {
+		cin>>arr[i];
+	}
+
+	ofstream f1("c:\\users\\darsh\\prog\\cpp\\bin_rd-wr.txt");
+	f1.write((char*)&arr,sizeof(arr));
+	if(f1.good()) {
+		cout<<"all okay";
+	}
+	f1.close();
+
+
+	ifstream f2("c:\\users\\darsh\\prog\\cpp\\bin_rd-wr.txt");
+	f2.read((char*)&arr,sizeof(arr));
+	if(f2) {
+		for(i=0 ; i<5 ;i++) {
+			cout<<endl<<arr[i]<<"\t";
+		}
+	}
+
+
+
+}

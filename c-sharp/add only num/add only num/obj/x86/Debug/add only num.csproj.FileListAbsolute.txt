@@ -1,0 +1,8 @@
+C:\SUB\C#\add only num\add only num\bin\Debug\add only num.exe
+C:\SUB\C#\add only num\add only num\bin\Debug\add only num.pdb
+C:\SUB\C#\add only num\add only num\obj\x86\Debug\add_only_num.Form1.resources
+C:\SUB\C#\add only num\add only num\obj\x86\Debug\add_only_num.Properties.Resources.resources
+C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.csproj.GenerateResource.Cache
+C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.exe
+C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.pdb
+C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.csprojResolveAssemblyReference.cache

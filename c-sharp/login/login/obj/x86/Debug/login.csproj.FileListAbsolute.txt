@@ -1,0 +1,7 @@
+C:\SUB\C#\login\login\bin\Debug\login.exe
+C:\SUB\C#\login\login\bin\Debug\login.pdb
+C:\SUB\C#\login\login\obj\x86\Debug\login.Form1.resources
+C:\SUB\C#\login\login\obj\x86\Debug\login.Properties.Resources.resources
+C:\SUB\C#\login\login\obj\x86\Debug\login.csproj.GenerateResource.Cache
+C:\SUB\C#\login\login\obj\x86\Debug\login.exe
+C:\SUB\C#\login\login\obj\x86\Debug\login.pdb
