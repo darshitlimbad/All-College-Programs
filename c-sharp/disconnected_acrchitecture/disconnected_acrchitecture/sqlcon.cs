@@ -10,6 +10,6 @@ namespace disconnected_acrchitecture
 {
     class sqlcon
     {
-        public static SqlConnection con = new SqlConnection(@"Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\disconnected_database.mdf;Integrated Security=True;User Instance=True");
+        public static SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True");
     }
 }

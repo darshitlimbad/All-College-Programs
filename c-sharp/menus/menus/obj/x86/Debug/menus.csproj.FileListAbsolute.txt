@@ -1,0 +1,8 @@
+C:\SUB\C-sharp\menus\menus\bin\Debug\menus.exe
+C:\SUB\C-sharp\menus\menus\bin\Debug\menus.pdb
+C:\SUB\C-sharp\menus\menus\obj\x86\Debug\menus.Form1.resources
+C:\SUB\C-sharp\menus\menus\obj\x86\Debug\menus.Properties.Resources.resources
+C:\SUB\C-sharp\menus\menus\obj\x86\Debug\menus.csproj.GenerateResource.Cache
+C:\SUB\C-sharp\menus\menus\obj\x86\Debug\menus.exe
+C:\SUB\C-sharp\menus\menus\obj\x86\Debug\menus.pdb
+C:\SUB\C-sharp\menus\menus\bin\Debug\menus.exe.config

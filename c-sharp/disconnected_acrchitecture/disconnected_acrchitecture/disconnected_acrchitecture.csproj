@@ -197,12 +197,12 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Debug\disconnected_database.mdf">
+    <Content Include="bin\Debug\Database1.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="bin\Debug\disconnected_database_log.ldf">
+    <Content Include="bin\Debug\Database1_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>disconnected_database.mdf</DependentUpon>
+      <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

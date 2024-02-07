@@ -6,3 +6,13 @@ C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.csproj.GenerateRe
 C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.exe
 C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.pdb
 C:\SUB\C#\add only num\add only num\obj\x86\Debug\add only num.csprojResolveAssemblyReference.cache
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\bin\Debug\add only num.exe.config
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\bin\Debug\add only num.exe
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\bin\Debug\add only num.pdb
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\obj\x86\Debug\add only num.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\obj\x86\Debug\add_only_num.Form1.resources
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\obj\x86\Debug\add_only_num.Properties.Resources.resources
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\obj\x86\Debug\add only num.csproj.GenerateResource.cache
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\obj\x86\Debug\add only num.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\obj\x86\Debug\add only num.exe
+C:\Users\Darsh\Prog\c-sharp\add only num\add only num\obj\x86\Debug\add only num.pdb

@@ -1,0 +1,12 @@
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\bin\Debug\bin\Debug\Database1.mdf
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\bin\Debug\bin\Debug\Database1_log.ldf
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\bin\Debug\idk v.2.exe.config
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\bin\Debug\idk v.2.exe
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\bin\Debug\idk v.2.pdb
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\obj\Debug\idk v.2.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\obj\Debug\idk_v._2.Form1.resources
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\obj\Debug\idk_v._2.Properties.Resources.resources
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\obj\Debug\idk v.2.csproj.GenerateResource.cache
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\obj\Debug\idk v.2.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\obj\Debug\idk v.2.exe
+C:\Users\Darsh\Prog\c-sharp\idk v.2\idk v.2\obj\Debug\idk v.2.pdb

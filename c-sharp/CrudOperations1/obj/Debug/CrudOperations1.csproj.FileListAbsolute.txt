@@ -1,0 +1,30 @@
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\bin\Debug\CrudOperations1.exe.config
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\bin\Debug\CrudOperations1.exe
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\bin\Debug\CrudOperations1.pdb
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.csproj.AssemblyReference.cache
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.ADMIN_LOGIN.resources
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.Properties.Resources.resources
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.csproj.GenerateResource.cache
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.csproj.CoreCompileInputs.cache
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.exe
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.pdb
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\bin\Debug\bin\Debug\CRUDOP1DB.mdf
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\bin\Debug\bin\Debug\CRUDOP1DB_log.ldf
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.LOADING.resources
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.EMP_RECORDS.resources
+D:\01. BCA\Sem 4\2. Programming with c#\Programs\CrudOperations1\obj\Debug\CrudOperations1.HOME.resources
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.exe
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.pdb
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.EMP_RECORDS.resources
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.HOME.resources
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.LOADING.resources
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.Properties.Resources.resources
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.csproj.GenerateResource.cache
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\bin\Debug\bin\Debug\CRUDOP1DB.mdf
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\bin\Debug\bin\Debug\CRUDOP1DB_log.ldf
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\bin\Debug\CrudOperations1.exe.config
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\bin\Debug\CrudOperations1.exe
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\bin\Debug\CrudOperations1.pdb
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.ADMIN_LOGIN.resources
+C:\Users\Darsh\Prog\c-sharp\CrudOperations1\obj\Debug\CrudOperations1.csproj.CoreCompileInputs.cache

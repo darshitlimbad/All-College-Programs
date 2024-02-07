@@ -23,3 +23,13 @@ C:\prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\De
 C:\prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.load.resources
 C:\prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.homepage.resources
 C:\prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.new_user.resources
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.Form1.resources
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.homepage.resources
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.load.resources
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.new_user.resources
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.Properties.Resources.resources
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.csproj.GenerateResource.cache
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.exe
+C:\Users\Darsh\Prog\c-sharp\disconnected_acrchitecture\disconnected_acrchitecture\obj\x86\Debug\disconnected_acrchitecture.pdb
