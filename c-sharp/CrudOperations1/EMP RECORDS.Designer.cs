@@ -180,7 +180,7 @@
             this.Clear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Clear.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Clear.ForeColor = System.Drawing.Color.Red;
-            this.Clear.Location = new System.Drawing.Point(314, 430);
+            this.Clear.Location = new System.Drawing.Point(314, 446);
             this.Clear.Margin = new System.Windows.Forms.Padding(4);
             this.Clear.Name = "Clear";
             this.Clear.Size = new System.Drawing.Size(237, 50);
@@ -195,7 +195,7 @@
             this.SUBMIT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.SUBMIT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SUBMIT.ForeColor = System.Drawing.Color.OliveDrab;
-            this.SUBMIT.Location = new System.Drawing.Point(40, 430);
+            this.SUBMIT.Location = new System.Drawing.Point(40, 446);
             this.SUBMIT.Margin = new System.Windows.Forms.Padding(4);
             this.SUBMIT.Name = "SUBMIT";
             this.SUBMIT.Size = new System.Drawing.Size(266, 50);
@@ -258,7 +258,7 @@
             this.UNM_POPUP.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UNM_POPUP.FormattingEnabled = true;
             this.UNM_POPUP.ItemHeight = 16;
-            this.UNM_POPUP.Location = new System.Drawing.Point(214, 339);
+            this.UNM_POPUP.Location = new System.Drawing.Point(214, 340);
             this.UNM_POPUP.Margin = new System.Windows.Forms.Padding(4);
             this.UNM_POPUP.Name = "UNM_POPUP";
             this.UNM_POPUP.Size = new System.Drawing.Size(340, 16);
@@ -269,10 +269,10 @@
             this.EMPIDTXT.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.EMPIDTXT.Enabled = false;
             this.EMPIDTXT.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.EMPIDTXT.Location = new System.Drawing.Point(212, 88);
+            this.EMPIDTXT.Location = new System.Drawing.Point(216, 88);
             this.EMPIDTXT.Margin = new System.Windows.Forms.Padding(4);
             this.EMPIDTXT.Name = "EMPIDTXT";
-            this.EMPIDTXT.Size = new System.Drawing.Size(339, 26);
+            this.EMPIDTXT.Size = new System.Drawing.Size(149, 26);
             this.EMPIDTXT.TabIndex = 19;
             // 
             // EMPIDLBL

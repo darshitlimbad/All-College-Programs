@@ -21,7 +21,7 @@ namespace CrudOperations1.SQLConn
             da.Fill(dt);
             if (dt.Rows.Count == 1)
             {
-                select = "select * from ADMINDETAILS where unm ='"+ username+"' AND  pwd='"+password+"'";
+                select = "select * from ADMINDETAILS where unm ='"+username+"' AND  pwd='"+password+"'";
                 da = new SqlDataAdapter(select, conn);
                 DataTable dt1 = new DataTable();
                 da.Fill(dt1);
@@ -36,7 +36,7 @@ namespace CrudOperations1.SQLConn
             }
             else
             {
-                return "Username and Password is incorrect!";
+                return "User Not Found!";
             }
         }
 
