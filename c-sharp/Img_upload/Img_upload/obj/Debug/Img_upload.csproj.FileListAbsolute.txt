@@ -1,0 +1,10 @@
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\bin\Debug\Img_upload.exe.config
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\bin\Debug\Img_upload.exe
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\bin\Debug\Img_upload.pdb
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\obj\Debug\Img_upload.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\obj\Debug\Img_upload.Properties.Resources.resources
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\obj\Debug\Img_upload.csproj.GenerateResource.cache
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\obj\Debug\Img_upload.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\obj\Debug\Img_upload.exe
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\obj\Debug\Img_upload.pdb
+C:\Users\Darsh\Prog\c-sharp\Img_upload\Img_upload\obj\Debug\Img_upload.Form1.resources
