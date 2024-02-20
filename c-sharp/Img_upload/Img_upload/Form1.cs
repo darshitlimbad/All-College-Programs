@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -13,6 +15,7 @@ namespace Img_upload
     public partial class Form1 : Form
     {
         String path;
+        Bitmap image;
 
         public Form1()
         {
@@ -31,8 +34,11 @@ namespace Img_upload
                 {
                     path = of.FileName;
                     label2.Text = path;
-                    pictureBox1.Image = new Bitmap(path);
+                    image = new Bitmap(path);
+                    pictureBox1.Image = image;
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+                    
+
                 }
             }
             else
@@ -46,7 +52,12 @@ namespace Img_upload
         {
             if(path != null)
             {
-                SaveFileDialog sd = new SaveFileDialog();
+                String saveFileName = "Image"+new Random().Next(0 , 1000).ToString("0000") + Path.GetExtension(Path.GetFileName(path));
+                String saveFolederName = AppDomain.CurrentDomain.BaseDirectory + @"img";
+                String saveFilePath = Path.Combine(saveFolederName,saveFileName);
+                image.Save(saveFilePath);
+                MessageBox.Show("Image saved Succesfully");
+                Application.Restart();
             }
             else
             {

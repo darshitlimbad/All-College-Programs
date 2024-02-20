@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Image upload", "Setup1\Setup1.vdproj", "{19535C75-267B-4EC1-8F74-7E1DC06C8B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19535C75-267B-4EC1-8F74-7E1DC06C8B9D}.Debug|Default.ActiveCfg = Debug
+		{19535C75-267B-4EC1-8F74-7E1DC06C8B9D}.Debug|Default.Build.0 = Debug
+		{19535C75-267B-4EC1-8F74-7E1DC06C8B9D}.Release|Default.ActiveCfg = Release
+		{19535C75-267B-4EC1-8F74-7E1DC06C8B9D}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF01805-E1B0-4E94-BDED-231147189369}
+	EndGlobalSection
+EndGlobal
