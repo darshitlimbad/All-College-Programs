@@ -1,0 +1,11 @@
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\bin\Debug\mdi.exe.config
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\bin\Debug\mdi.exe
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\bin\Debug\mdi.pdb
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.csproj.AssemblyReference.cache
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.Form1.resources
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.Form2.resources
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.cache
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.exe
+C:\Users\Darsh\Prog\punishment-1\mdi\mdi\obj\Debug\mdi.pdb
