@@ -1,6 +1,7 @@
 // 2d pointer array
-#include<iostream.h>
+#include<iostream>
 #include<conio.h>
+using namespace std;
 
 class A {
 	int **m , r , c;
@@ -13,12 +14,13 @@ class A {
 };
 
 A :: A(int r1 , int c1) {
-	r = r1;
-	c = c1;
+	this->r = r1;
+	this->c = c1;
 
 	m = new int *[r];
-	for (int i=0 ; i<r ; i++)
-		m[i]=new int[c];
+	int i=0;
+	while(i<r)
+		m[i++]=new int[c];
 }
 
 A :: ~A() {
@@ -40,7 +42,7 @@ void A :: get() {
 }
 
 void A :: put() {
-	 for (int i=0 ; i<r ; i++)
+	for (int i=0 ; i<r ; i++)
 	{
 		for(int j=0 ; j<c ; j++)
 		{
@@ -50,8 +52,8 @@ void A :: put() {
 	}
 }
 
-void main() {
-	clrscr();
+int main() {
+	//clrscr();
 	int r,c;
 
 	cout << "Enter row and col:";
@@ -62,4 +64,5 @@ void main() {
 	m1.put();
 
 	getch();
+	return 0;
 }
