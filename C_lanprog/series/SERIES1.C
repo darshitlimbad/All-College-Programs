@@ -1,12 +1,11 @@
 //series no.1 -1,2,4,7
 #include<stdio.h>
-
 #include<conio.h>
 
-void main()
+int main()
 {
 	int i,a=1,b=1,n;
-	clrscr();
+	// clrscr();
 
 	printf("enter your desired val for n(limit):\n");
 	scanf("%d",&n);
@@ -18,5 +17,6 @@ void main()
 		a=a+b;
 		b++;
 	}
-	getch();
+	// getch();
+	return 1;
 }

@@ -4,6 +4,9 @@
         "REDIAMON.C": "cpp",
         "RESARR.C": "cpp",
         "FIBONACC.C": "cpp",
-        "PRIME_NU.C": "cpp"
+        "PRIME_NU.C": "cpp",
+        "SERIES3.C": "cpp",
+        "SERIES2.C": "cpp",
+        "SERIES1.C": "cpp"
     }
 }
